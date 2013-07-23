@@ -2,7 +2,7 @@
 
 http://hixie.ch/commentary/web/history
 
-也就是說希望用最簡單的方式記錄台灣重大的事件。用簡單的 txt 檔來記錄。
+用最簡單的方式記錄台灣重大的事件。用簡單的 `txt` 檔來記錄。
 
 構想：
 
